@@ -1,4 +1,4 @@
 # argos template
 Landing page template
 
-![image](https://github.com/Canitia/argos/blob/master/screenshot.png)
+![image](https://github.com/pixelateddeveloper/argos/blob/master/screenshot.png)
